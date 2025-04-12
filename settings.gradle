@@ -1,4 +1,4 @@
 rootProject.name = 'springai'
 include 'openai'
-include 'openai'
+include 'askchat'
 
